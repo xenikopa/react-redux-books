@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/react-redux-books/static/media/MyriadPro-Light.7cce27d9.eot"
   },
   {
-    "revision": "c0b76443a2bd7bf6e4a02bd855d85905",
-    "url": "/react-redux-books/static/media/MyriadPro-Light.c0b76443.woff"
-  },
-  {
     "revision": "f4bf8ccd575532aae5e5b07b1749de32",
     "url": "/react-redux-books/static/media/MyriadPro-Light.f4bf8ccd.ttf"
+  },
+  {
+    "revision": "c0b76443a2bd7bf6e4a02bd855d85905",
+    "url": "/react-redux-books/static/media/MyriadPro-Light.c0b76443.woff"
   },
   {
     "revision": "3dae88e3433e5984f38e4831b8da2810",
